@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 
 The following **extensions** are implemented:
 
-* [X] User sees a descriptive error message if internet is not available
+* [X] Changed the color scheme to match Yelp
 
 ## Video Walkthrough
 
